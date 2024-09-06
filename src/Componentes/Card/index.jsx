@@ -8,7 +8,7 @@ export default function Card({dados}){
                 <div class="skill-card"
                  key={index} 
                  style={{
-                    backgroundColor j: pegaDados.color
+                    backgroundColor : pegaDados.color
                  }}
                 >
                 <h3>Titulo: {pegaDados.titulo}</h3>
